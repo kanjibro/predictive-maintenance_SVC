@@ -12,5 +12,5 @@ A machine learning-based predictive maintenance system for Static VAR Compensato
 ## Installation
 1. Clone the repository:
    ```bash
-[   git clone https://github.com/yourusername/svc-predictive-maintenance.git
+   git clone https://github.com/yourusername/svc-predictive-maintenance.git
    cd svc-predictive-maintenance](https://github.com/kanjibro/predictive-maintenance_SVC)
